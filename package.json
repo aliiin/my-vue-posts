@@ -13,7 +13,7 @@
     "test": "npm run unit && npm run e2e"
   },
   "dependencies": {
-    "@okta/jwt-verifier": "0.0.11",
+    "@okta/jwt-verifier": "0.0.14",
     "@okta/okta-vue": "^1.1.0",
     "axios": "^0.18.0",
     "bootstrap": "^4.1.0",
@@ -21,7 +21,7 @@
     "cors": "^2.8.4",
     "epilogue": "^0.7.1",
     "sequelize": "^4.37.6",
-    "sqlite3": "^4.0.0",
+    "sqlite3": "^4.0.6",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
@@ -49,7 +49,7 @@
     "file-loader": "^1.1.5",
     "friendly-errors-webpack-plugin": "^1.6.1",
     "html-webpack-plugin": "^2.30.1",
-    "http-proxy-middleware": "^0.17.4",
+    "http-proxy-middleware": "^0.19.1",
     "inject-loader": "^3.0.1",
     "karma": "^1.7.1",
     "karma-coverage": "^1.1.1",
