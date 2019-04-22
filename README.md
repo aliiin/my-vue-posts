@@ -7,7 +7,9 @@ npm install
 ```
 
 To run the server:
+```bash
 node ./src/server
+```
 
 To run the client:
 
